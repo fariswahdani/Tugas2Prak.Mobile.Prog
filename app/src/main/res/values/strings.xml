@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas 2 Prak.Mobile.Prog</string>
+    <string name="NIM">Enter NIM</string>
+    <string name="Nama">Enter Nama</string>
+    <string name="Matkul">Matkul</string>
+    <string name="Rekayasa_Perangkat_Lunak">Rekayasa Perangkat Lunak</string>
+    <string name="Algoritma_dan_Struktur_Data">Algoritma dan Struktur Data</string>
+    <string name="Mobile_Programming">Mobile Programming</string>
+    <string name="Submit">Submit</string>
+    <string name="KRS">KRS</string>
+</resources>
